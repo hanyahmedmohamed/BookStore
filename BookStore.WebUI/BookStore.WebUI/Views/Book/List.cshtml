@@ -1,0 +1,21 @@
+﻿@*@using BookStore.Domain.Entities*@
+@*elmodel elly ha4t8l 3leh*@
+@*@model IEnumerable<Book>*@   
+@model BookStore.WebUI.Models.BookListViewModel
+@{
+    ViewBag.Title = "List";
+}
+
+<h2>Book List</h2>
+@*@Model.Count();*@
+@foreach (var b in Model.Books)
+{
+@Html.Partial("BookSummary", b);
+}
+
+<div class="btn-group pull-right">
+    @Html.PageLinks(Model.PagingInfo, x  =>  Url.Action
+    ("List","Book", new { pageno = x,specilization = Model.CurrentSpecilization}))
+    
+</div>
+

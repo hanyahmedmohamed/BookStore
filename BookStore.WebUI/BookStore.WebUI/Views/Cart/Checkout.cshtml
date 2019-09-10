@@ -1,0 +1,56 @@
+﻿@model BookStore.Domain.Entities.ShippingDetails
+@*@model BookStore.Domain.Entities.Order*@
+    @{
+    ViewBag.Title = "Bookstore : Checkout";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    //34an a5ly el Client hwa elly y4t5l
+    HtmlHelper.ClientValidationEnabled = false;
+    HtmlHelper.UnobtrusiveJavaScriptEnabled = false;
+}
+<div class="panel">
+    <div class="panel-heading">
+        <h2>Check out now</h2>
+        <b> Please enter your details, and we 'll ship your books right away</b>
+    </div>
+    @using (Html.BeginForm("Checkout", "Cart"))
+{
+        <div class="panel-body">
+            @Html.HiddenFor(b=>b.ShippingID)
+            @Html.HiddenFor(b => b.OrderLines)
+            @*metadata 5was el properties elly 3andy msln int aw string ....*@
+            @foreach(var property in ViewData.ModelMetadata.Properties)
+        {
+            if (property.PropertyName != "ShippingID" && property.PropertyName != "OrderLines")
+            {
+                <div class="form-group">
+                    @*hay3rd property.DisplayName aw  property.PropertyName *@
+                    <label>@(property.DisplayName?? property.PropertyName)</label>
+                    @if (property.PropertyName == "GiftWrap")
+                    {
+                        @Html.CheckBox(property.PropertyName)
+                    }
+                    else
+                    {
+                        @Html.TextBox(property.PropertyName,null,new{@class="form-control"})
+                    }
+                   
+                    @*hena hay3rd el messages*@
+                    @Html.ValidationMessage(property.PropertyName)
+                </div>
+            }
+        }
+            
+        </div>
+        //hay3ml el form kolha automatic
+            @*@Html.EditorForModel();*@
+        <div class="panel-footer">
+            <input type="submit" value="Complete order" class="btn btn-primary" />
+            @Html.ActionLink("Cancel and return to list", "Index",null,new{@class="btn btn-default"})
+        </div>
+
+
+
+}
+</div>
+   
+      

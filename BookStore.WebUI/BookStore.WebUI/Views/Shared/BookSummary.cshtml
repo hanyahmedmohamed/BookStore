@@ -1,0 +1,31 @@
+﻿@model BookStore.Domain.Entities.Book
+
+<div class="well">
+
+        @if (Model.ImageData != null)
+        {
+            <div class="pull-left" style="margin-right: 10px">
+                <img class="img-thumbnail" width="75" height="75"
+                     src="@Url.Action("GetImage", "Book",
+         new { Model.ISBN })" />
+            </div>
+        }
+
+    <h3>
+        <strong>@Model.Title</strong>
+        <span class="pull-right label label-primary">@Model.Price.ToString("c") </span>
+    </h3>
+    @*<span class="lead">@Model.Description</span>*@
+    @using(Html.BeginForm("AddToCart","Cart"))
+    {
+        <div class="">
+            <input type="submit" class="btn btn-success" value="Add To Cart" />
+            @Html.HiddenFor(b=>b.ISBN)
+            @*//hatlob kol el7agat elly mawgwoda f el saf7a fo2*@
+            @*//34an lma arg3 arg3 la5r mkan ana kont feh m4 atla3 bra 5ales*@
+            @Html.Hidden("returnUrl",Request.Url.PathAndQuery)
+         </div>
+    }
+
+
+</div>

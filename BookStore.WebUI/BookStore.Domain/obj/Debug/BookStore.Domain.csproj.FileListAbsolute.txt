@@ -1,0 +1,75 @@
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\BookStore.Domain.dll
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\BookStore.Domain.pdb
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\obj\Debug\BookStore.Domain.dll
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\obj\Debug\BookStore.Domain.pdb
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Helpers.dll
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Mvc.dll
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Razor.dll
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.WebPages.dll
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Helpers.xml
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Mvc.xml
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Razor.xml
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.WebPages.xml
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Mvc.Extensions.dll
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Mvc.Extensions.xml
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\BookStore.Domain.dll.config
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\EntityFramework.dll
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\EntityFramework.xml
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+F:\fcih\ASP.NET\Adel_Sabour\asp.netWork\BookStore.WebUI\BookStore.Domain\obj\Debug\BookStore.Domain.csprojResolveAssemblyReference.cache
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\BookStore.Domain.dll.config
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\BookStore.Domain.dll
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\BookStore.Domain.pdb
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\EntityFramework.dll
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Helpers.dll
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Mvc.dll
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Mvc.Extensions.dll
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Razor.dll
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.WebPages.dll
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\EntityFramework.xml
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Helpers.xml
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Mvc.xml
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Mvc.Extensions.xml
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Razor.xml
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.WebPages.xml
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\obj\Debug\BookStore.Domain.csprojResolveAssemblyReference.cache
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\obj\Debug\BookStore.Domain.dll
+F:\fcih\ASP.NET\Adel_Sabour\version 4\BookStore.WebUI\BookStore.Domain\obj\Debug\BookStore.Domain.pdb
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\BookStore.Domain.dll.config
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\BookStore.Domain.dll
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\BookStore.Domain.pdb
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\EntityFramework.dll
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Helpers.dll
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Mvc.dll
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Mvc.Extensions.dll
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Razor.dll
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.WebPages.dll
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\EntityFramework.xml
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Helpers.xml
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Mvc.xml
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Mvc.Extensions.xml
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.Razor.xml
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.WebPages.xml
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\obj\Debug\BookStore.Domain.csprojResolveAssemblyReference.cache
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\obj\Debug\BookStore.Domain.dll
+F:\fcih\ASP.NET\Adel_Sabour\final version 2\BookStore.WebUI\BookStore.Domain\obj\Debug\BookStore.Domain.pdb
